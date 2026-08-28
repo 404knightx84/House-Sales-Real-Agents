@@ -79,14 +79,6 @@ The dataset contains historical house sales records, typically including feature
    - Key price-driving factors
    - Model limitations and next steps
 
-## 📊 Results
-
-| Model | RMSE | MAE | R² |
-|---|---|---|---|
-| Linear Regression | *TBD* | *TBD* | *TBD* |
-| Random Forest | *TBD* | *TBD* | *TBD* |
-
-*(Update this table with your actual results once evaluation is complete.)*
 
 ## 🚀 How to Run
 
@@ -114,21 +106,11 @@ House-Sales-Real-Agents/
 └── README.md                  # Project documentation
 ```
 
-## 📈 Key Insights
-
-- *(Add 2–3 sentences summarizing the most important findings, e.g. which features most strongly influence sale price)*
-
 ## 🔮 Future Improvements
 
 - Incorporate additional external data (e.g., neighborhood amenities, school ratings)
 - Experiment with gradient boosting models (XGBoost, LightGBM)
 - Deploy the model as an API or simple web app for real-time price predictions
 
-## 👤 Author
-
-*(Your name here)*
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
