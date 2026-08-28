@@ -107,12 +107,11 @@ jupyter notebook
 ```
 House-Sales-Real-Agents/
 │
-├── data/                  # Raw and cleaned datasets
-├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── models/                  # Saved/trained model files
-├── images/                    # Visualizations and plots
-├── requirements.txt        # Project dependencies
-└── README.md                # Project documentation
+├── house_sales.csv          # Raw historical house sales dataset
+├── train.csv                 # Training data split
+├── validation.csv            # Validation data split
+├── notebook.ipynb             # Jupyter notebook — cleaning, EDA & modeling
+└── README.md                  # Project documentation
 ```
 
 ## 📈 Key Insights
